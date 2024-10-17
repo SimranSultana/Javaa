@@ -1,0 +1,15 @@
+Set <Interface>
+1.HashSet.
+2.TreeSet.
+3.LinkedHashSet.
+
+1.HashSet = No duplicate values
+            no indexing order
+            only one null values
+            heterogenous element can be added.
+
+2.TreeSet = all the properties are same but we have sorting order
+
+3.LinkedHashSet = insertion order will be maintained same
+            
+            
